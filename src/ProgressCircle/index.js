@@ -6,6 +6,7 @@ import {
 } from 'react-native';
 import Svg, { G, Circle} from 'react-native-svg';
 import Wave from './components/WaveAnimation'
+import Christams from './components/Christmas'
 import { Container, Text } from './styles';
 
 const AnimatedText = Animated.createAnimatedComponent(Text);
@@ -61,6 +62,7 @@ export default function AnimatedView({
 
   return (
     <>
+    <Christams />
     <Container>
       <Svg
         height={radius * 2}
