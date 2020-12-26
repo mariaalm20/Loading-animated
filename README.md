@@ -7,7 +7,7 @@
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
-## 🔖&nbsp; Sobre
+## :page_facing_up:&nbsp; Sobre
 
 O projeto Loading-Animated é uma animação de loading feita para treinar minhas habilidades com animações e designes neuromórficos.
 
@@ -22,7 +22,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ---
 
-## 🗂 Como baixar o projeto
+## :inbox_tray: Como baixar o projeto
 
 ```bash
 
