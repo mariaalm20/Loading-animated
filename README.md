@@ -15,7 +15,7 @@ O projeto Loading-Animated é uma animação de loading feita para treinar minha
 
 ## 🚀 Tecnologias utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido utilizando:
 
 - [React Ntive](https://reactnative.dev/)
 - [Expo](https://expo.io/)
