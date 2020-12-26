@@ -10,6 +10,7 @@
 ## 🔖&nbsp; Sobre
 
 O projeto Loading-Animated é uma animação de loading feita para treinar minhas habilidades com animações e designes neuromórficos.
+
 ---
 
 ## 🚀 Tecnologias utilizadas
